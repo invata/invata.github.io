@@ -27,7 +27,7 @@
   color: #fff;
   line-height: 20px;
   padding: 7px 15px;
-  background: #00bcd4;
+  background: #65909F;
   text-decoration: none;
 }
 
@@ -93,14 +93,14 @@
 }
 
 .header-fullscreen .header-fullscreen-nav-actions-left .header-fullscreen-nav-trigger:hover .header-fullscreen-nav-trigger-icon {
-  background: #00bcd4;
+  background: #65909F;
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
 }
 
 .header-fullscreen .header-fullscreen-nav-actions-left .header-fullscreen-nav-trigger:hover .header-fullscreen-nav-trigger-icon:before, .header-fullscreen .header-fullscreen-nav-actions-left .header-fullscreen-nav-trigger:hover .header-fullscreen-nav-trigger-icon:after {
-  background: #00bcd4;
+  background: #65909F;
   transition-duration: 300ms;
   transition-property: all;
   transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -119,13 +119,13 @@
     background: #34343c;
   }
   .header-fullscreen .header-fullscreen-nav-actions-left .header-fullscreen-nav-trigger:hover .header-fullscreen-nav-trigger-icon {
-    background: #00bcd4;
+    background: #65909F;
     transition-duration: 300ms;
     transition-property: all;
     transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
   }
   .header-fullscreen .header-fullscreen-nav-actions-left .header-fullscreen-nav-trigger:hover .header-fullscreen-nav-trigger-icon:before, .header-fullscreen .header-fullscreen-nav-actions-left .header-fullscreen-nav-trigger:hover .header-fullscreen-nav-trigger-icon:after {
-    background: #00bcd4;
+    background: #65909F;
     transition-duration: 300ms;
     transition-property: all;
     transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
@@ -157,13 +157,13 @@
     background: #34343c;
   }
   .header-shrink .header-fullscreen .header-fullscreen-nav-actions-left .header-fullscreen-nav-trigger:hover .header-fullscreen-nav-trigger-icon {
-    background: #00bcd4;
+    background: #65909F;
     transition-duration: 300ms;
     transition-property: all;
     transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
   }
   .header-shrink .header-fullscreen .header-fullscreen-nav-actions-left .header-fullscreen-nav-trigger:hover .header-fullscreen-nav-trigger-icon:before, .header-shrink .header-fullscreen .header-fullscreen-nav-actions-left .header-fullscreen-nav-trigger:hover .header-fullscreen-nav-trigger-icon:after {
-    background: #00bcd4;
+    background: #65909F;
     transition-duration: 300ms;
     transition-property: all;
     transition-timing-function: cubic-bezier(0.7, 1, 0.7, 1);
